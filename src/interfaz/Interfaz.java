@@ -9,7 +9,7 @@ import java.applet.AudioClip;
 import java.io.File;
 import javax.swing.Icon;
 import javax.swing.ImageIcon;
-import juego.*;
+import Juego.*;
 
 
 public class Interfaz extends javax.swing.JFrame {
